@@ -56,7 +56,7 @@ Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
 *   *Experimental rheology on macro and micro gels* with B V R Tata, Indira Gandhi Centre for Atomic Research  (December 2011).
 
-*   *Mossbauer Spectroscopy of* $$Fe^{57}$$ with R Govindaraj, Indira Gandhi Centre for Atomic Research (July 2011).
+*   *Mossbauer Spectroscopy of* \\[[ $$Fe^{57}$$ ]]\\ with R Govindaraj, Indira Gandhi Centre for Atomic Research (July 2011).
 
 *   *Gamma Ray Spectroscopy*  with R Rajaraman, Indira Gandhi Centre for Atomic Research (May 2011).
 
@@ -72,10 +72,15 @@ Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
 ## Others
 
-* Participated as a member of the Academic team in the $$10^{th}$$ International Olympiad on Astronomy and Astrophysics, December 2016.
+* Participated as a member of the Academic team in the \\[[ $$10^{th}$$ ]]\\ International Olympiad on Astronomy and Astrophysics, December 2016.
 
 * Taught at winter camps for children selected in Rural  Mathematics Talent Search, Orissa, 2010 and 2012.
 
 [cmi]: https://www.cmi.ac.in
 [govind]: https://www.cmi.ac.in/~govind
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 

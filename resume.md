@@ -72,7 +72,7 @@ Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
 ## Others
 
-* Participated as a member of the Academic team in the $10^{th}$ International Olympiad on Astronomy and Astrophysics, December 2016.
+* Participated as a member of the Academic team in the $$10^{th}$$ International Olympiad on Astronomy and Astrophysics, December 2016.
 
 * Taught at winter camps for children selected in Rural  Mathematics Talent Search, Orissa, 2010 and 2012.
 

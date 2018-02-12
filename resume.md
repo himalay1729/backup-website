@@ -4,13 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 # Himalaya Senapati
-I am currently a doctoral student in the Physics Department at Chennai Mathematical Institute
+I am currently a doctoral student in the Physics Department at [Chennai Mathematical Institute][cmi]
 
 ## Education
 
 Chennai Mathematical Institute, Chennai, India (2010--present)
 
-*  Research scholar working towards Ph.D in Theoretical Physics.\\ Advisor: Govind~Krishnaswami.
+*  Research scholar working towards Ph.D in Theoretical Physics. \\
+   Advisor: [Govind S. Krishnaswami][govind].
 
 * Master of Science in Physics, 2015.
 
@@ -34,11 +35,12 @@ Chennai Mathematical Institute, Chennai, India (2010--present)
 
 ## Research Interests
 
+
 Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
 ## Publications
 
-* *Curvature and geodesic instabilities in a geometrical approach to the planar three-body problem*, G. S. Krishnaswami and H. Senapati, J. Math. Phys. 57, 102901 (2016) (Featured Article). http://dx.doi.org/10.1063/1.4964340, arXiv:1606.05091 [math-phys].
+* *Curvature and geodesic instabilities in a geometrical approach to the planar three-body problem*, G. S. Krishnaswami and H. Senapati, J. Math. Phys. 57, 102901 (2016) (Featured Article). [http://dx.doi.org/10.1063/1.4964340](https://dx.doi.org/10.1063/1.4964340), [arXiv:1606.05091](https://arxiv.org/abs/1606.05091) [math-phys].
 
 * *An introduction to the classical three-body problem: From periodic solutions to instabilities and chaos*, G. S. Krishnaswami and H. Senapati, Preprint of expository article, January 2017.
 
@@ -46,15 +48,15 @@ Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
 ## Past Research Experience
 
-*   *Classical three body problem and stability analysis*  with G S Krishnaswami (M.Sc. Thesis, 2015).
+*   *Classical three body problem and stability analysis* with G S Krishnaswami (M.Sc. Thesis, 2015).
 
-*   *2D Ising Model: Analytic and Numerical approaches*  with G S Krishnaswami (B.Sc. Thesis, 2013).
+*   *2D Ising Model: Analytic and Numerical approaches* with G S Krishnaswami (B.Sc. Thesis, 2013).
 
-*   *Renormalization group approach to Ising model*  with G S Krishnaswami (May 2012).
+*   *Renormalization group approach to Ising model* with G S Krishnaswami (May 2012).
 
-*   *Experimental rheology on macro and micro gels*   with B V R Tata, Indira Gandhi Centre for Atomic Research  (December 2011).
+*   *Experimental rheology on macro and micro gels* with B V R Tata, Indira Gandhi Centre for Atomic Research  (December 2011).
 
-*   *Mossbauer Spectroscopy of*  {% raw %}$Fe^{57} \frac{1}{2}$ {% endraw %}   with  R Govindaraj, Indira Gandhi Centre for Atomic Research (July 2011).
+*   *Mossbauer Spectroscopy of* $$Fe^{57}$$ with R Govindaraj, Indira Gandhi Centre for Atomic Research (July 2011).
 
 *   *Gamma Ray Spectroscopy*  with R Rajaraman, Indira Gandhi Centre for Atomic Research (May 2011).
 
@@ -74,4 +76,6 @@ Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
 * Taught at winter camps for children selected in Rural  Mathematics Talent Search, Orissa, 2010 and 2012.
 
+[cmi]: https://www.cmi.ac.in
+[govind]: https://www.cmi.ac.in/~govind
 

@@ -3,10 +3,10 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-## Himalaya Senapati
+# Himalaya Senapati
 I am currently a doctoral student in the Physics Department at Chennai Mathematical Institute
 
-# Education
+## Education
 
 Chennai Mathematical Institute, Chennai, India (2010--present)
 
@@ -16,53 +16,51 @@ Chennai Mathematical Institute, Chennai, India (2010--present)
 
 * Bachelor of Science in Physics, 2013.
 
-# Awards and Honors
+## Awards and Honors
 
-* CMI Research Fellowship, Awarded by Chennai Mathematical Institute, 2013-present.
+* **CMI Research Fellowship**, Awarded by Chennai Mathematical Institute, 2013-present.
 
-* KVPY Fellowship, Awarded by Department of Science \& Technology, Govt. of India, 2008-2013.
+* **KVPY Fellowship**, Awarded by Department of Science \& Technology, Govt. of India, 2008-2013.
 
-* National Child Award for Exceptional Achievment, Awarded by Department of Women \& Child Development, Govt. of India in 2008 for performance in the fields of Mathematics and Astronomy.
+* **National Child Award for Exceptional Achievement**, Awarded by Department of Women \& Child Development, Govt. of India in 2008 for performance in the fields of Mathematics and Astronomy.
 
-* Silver in XII International Astronomy Olympiad, 2007.
+* **Silver** in **XII International Astronomy Olympiad**, 2007.
 
-* Qualified Indian National Mathematics Olympiad, 2007,2008,2009,2010.
+* Qualified **Indian National Mathematics Olympiad**, 2007,2008,2009,2010.
 
-* Qualified Indian National Astronomy Olympiad, 2007, 2008, 2009, 2010.
+* Qualified **Indian National Astronomy Olympiad**, 2007, 2008, 2009, 2010.
 
-* Qualified Zonal Informatics Olympiad, 2009.
+* Qualified **Zonal Informatics Olympiad**, 2009.
 
-# Research Interests
+## Research Interests
 
 Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
-# Publications
+## Publications
 
-* Curvature and geodesic instabilities in a geometrical approach to the planar three-body problem, G. S. Krishnaswami and H. Senapati, J. Math. Phys. 57, 102901 (2016) (Featured Article).
+* *Curvature and geodesic instabilities in a geometrical approach to the planar three-body problem*, G. S. Krishnaswami and H. Senapati, J. Math. Phys. 57, 102901 (2016) (Featured Article). http://dx.doi.org/10.1063/1.4964340, arXiv:1606.05091 [math-phys].
 
-http://dx.doi.org/10.1063/1.4964340, arXiv:1606.05091 [math-phys].
-
-* An introduction to the classical three-body problem: From periodic solutions to instabilities and chaos, G. S. Krishnaswami and H. Senapati, Preprint of expository article, January 2017.
+* *An introduction to the classical three-body problem: From periodic solutions to instabilities and chaos*, G. S. Krishnaswami and H. Senapati, Preprint of expository article, January 2017.
 
 * ??
 
-# Past Research Experience
+## Past Research Experience
 
-*   Classical three body problem and stability analysis  with G S Krishnaswami (M.Sc. Thesis, 2015).
+*   *Classical three body problem and stability analysis*  with G S Krishnaswami (M.Sc. Thesis, 2015).
 
-*   2D Ising Model: Analytic and Numerical approaches  with G S Krishnaswami (B.Sc. Thesis, 2013).
+*   *2D Ising Model: Analytic and Numerical approaches*  with G S Krishnaswami (B.Sc. Thesis, 2013).
 
-*   Renormalization group approach to Ising model   with G S Krishnaswami (May 2012).
+*   *Renormalization group approach to Ising model*  with G S Krishnaswami (May 2012).
 
-*   Experimental rheology on macro and micro gels   with B V R Tata, Indira Gandhi Centre for Atomic Research  (December 2011).
+*   *Experimental rheology on macro and micro gels*   with B V R Tata, Indira Gandhi Centre for Atomic Research  (December 2011).
 
-*   Mossbauer Spectroscopy of $Fe^{57}$   with  R Govindaraj, Indira Gandhi Centre for Atomic Research (July 2011).
+*   *Mossbauer Spectroscopy of*  {% raw %}$Fe^{57} \frac{1}{2}$ {% endraw %}   with  R Govindaraj, Indira Gandhi Centre for Atomic Research (July 2011).
 
-*   Gamma Ray Spectroscopy  with R Rajaraman, Indira Gandhi Centre for Atomic Research (May 2011).
+*   *Gamma Ray Spectroscopy*  with R Rajaraman, Indira Gandhi Centre for Atomic Research (May 2011).
 
-*  Pulsar Emission Properties  with Dipanjan Mitra, National Centre for Radio Astrophysics (December 2010).
+*  *Pulsar Emission Properties*  with Dipanjan Mitra, National Centre for Radio Astrophysics (December 2010).
 
-# Schools
+## Schools
 
 * Probabilistic and statistical methods for networks, August 21 - September 1, 2017 (BMS Summer School, Berlin).
 
@@ -70,7 +68,7 @@ http://dx.doi.org/10.1063/1.4964340, arXiv:1606.05091 [math-phys].
 
 * Nonlinear dynamics, January 02 - 29, 2018 (SERB School, Pune).
 
-# Others
+## Others
 
 * Participated as a member of the Academic team in the $10^{th}$ International Olympiad on Astronomy and Astrophysics, December 2016.
 
